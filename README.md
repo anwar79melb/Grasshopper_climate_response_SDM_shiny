@@ -18,7 +18,7 @@ https://YOUR-POSIT-CLOUD-LINK
 
 https://minerva-access.unimelb.edu.au/items/d6602761-b9e9-4dc1-b52d-e0ceb9bae69a
 
-## Author
+## Authors
 
-Md Anwar Hossain
+Md Anwar Hossain, Michael R Kearney, Jose J Lahoz-Monfort
 University of Melbourne
