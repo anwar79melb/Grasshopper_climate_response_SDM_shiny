@@ -1,6 +1,3 @@
-# Grasshopper's response to variable climate in Western Australia
-Interactive Shiny application showing response to variable climates of Australian grasshoppers through species distribution modelling.
-
 # Grasshopper Species Distribution Models
 
 An interactive Shiny application of Species Distribution Models developed as part of my PhD research investigating response to variable climates by grasshoppers in Western Australia.
