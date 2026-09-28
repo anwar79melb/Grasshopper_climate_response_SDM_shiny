@@ -4,7 +4,7 @@ An interactive Shiny application of Species Distribution Models developed as par
 
 ## Live Application
 
-[https://anwarresearch-grasshopper-climate-response-sdm.share.connect.posit.cloud]
+https://anwarresearch-grasshopper-climate-response-sdm.share.connect.posit.cloud
 ## Features
 
 - Long-term climate and static predictor models
